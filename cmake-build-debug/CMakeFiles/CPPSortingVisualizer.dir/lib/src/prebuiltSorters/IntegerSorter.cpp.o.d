@@ -1,8 +1,8 @@
-CMakeFiles/CPPSortingVisualizer.dir/lib/src/implementations/BubbleSort.cpp.o: \
- /mnt/c/Users/vasil/Desktop/CS3520/CPPSortingVisualizer/lib/src/implementations/BubbleSort.cpp \
+CMakeFiles/CPPSortingVisualizer.dir/lib/src/prebuiltSorters/IntegerSorter.cpp.o: \
+ /mnt/c/Users/vasil/Desktop/CS3520/CPPSortingVisualizer/lib/src/prebuiltSorters/IntegerSorter.cpp \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/vasil/Desktop/CS3520/CPPSortingVisualizer/lib/src/implementations/../../includes/implementations/BubbleSort.h \
- /mnt/c/Users/vasil/Desktop/CS3520/CPPSortingVisualizer/lib/src/implementations/../../includes/implementations/../Sorter.h \
+ /mnt/c/Users/vasil/Desktop/CS3520/CPPSortingVisualizer/lib/src/prebuiltSorters/../../includes/prebuiltSorters/IntegerSorter.h \
+ /mnt/c/Users/vasil/Desktop/CS3520/CPPSortingVisualizer/lib/src/prebuiltSorters/../../includes/prebuiltSorters/../Sorter.h \
  /usr/include/c++/9/vector /usr/include/c++/9/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -46,7 +46,7 @@ CMakeFiles/CPPSortingVisualizer.dir/lib/src/implementations/BubbleSort.cpp.o: \
  /usr/include/c++/9/bits/functional_hash.h \
  /usr/include/c++/9/bits/range_access.h \
  /usr/include/c++/9/bits/vector.tcc \
- /mnt/c/Users/vasil/Desktop/CS3520/CPPSortingVisualizer/lib/src/implementations/../../includes/implementations/../element.h \
+ /mnt/c/Users/vasil/Desktop/CS3520/CPPSortingVisualizer/lib/src/prebuiltSorters/../../includes/prebuiltSorters/../element.h \
  /usr/include/c++/9/iostream /usr/include/c++/9/ostream \
  /usr/include/c++/9/ios /usr/include/c++/9/iosfwd \
  /usr/include/c++/9/bits/stringfwd.h /usr/include/c++/9/bits/postypes.h \
