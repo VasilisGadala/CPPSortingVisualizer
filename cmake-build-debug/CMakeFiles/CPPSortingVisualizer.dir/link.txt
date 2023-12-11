@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CPPSortingVisualizer.dir/main.cpp.o CMakeFiles/CPPSortingVisualizer.dir/lib/src/prebuiltSorters/IntegerSorter.cpp.o CMakeFiles/CPPSortingVisualizer.dir/lib/src/prebuiltSorters/LexicographicSorter.cpp.o -o CPPSortingVisualizer 

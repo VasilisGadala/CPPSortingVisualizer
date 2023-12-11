@@ -1,0 +1,3 @@
+/mnt/c/Users/vasil/Desktop/CS3520/CPPSortingVisualizer/cmake-build-debug/CMakeFiles/CPPSortingVisualizer.dir
+/mnt/c/Users/vasil/Desktop/CS3520/CPPSortingVisualizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vasil/Desktop/CS3520/CPPSortingVisualizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
